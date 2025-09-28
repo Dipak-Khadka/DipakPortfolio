@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DipakPortfolio/static/css/main.2aedf773.css",
-    "main.js": "/DipakPortfolio/static/js/main.509c48ba.js",
+    "main.js": "/DipakPortfolio/static/js/main.ffbb0b58.js",
     "static/js/453.438d9e50.chunk.js": "/DipakPortfolio/static/js/453.438d9e50.chunk.js",
     "static/media/bug.png": "/DipakPortfolio/static/media/bug.fb569a9cbfeeebf79dca.png",
     "static/media/blue.png": "/DipakPortfolio/static/media/blue.f986da3e1180d1c3de6d.png",
@@ -10,11 +10,11 @@
     "static/media/DipakKhadka.jpeg": "/DipakPortfolio/static/media/DipakKhadka.412397f225e3ce06084b.jpeg",
     "index.html": "/DipakPortfolio/index.html",
     "main.2aedf773.css.map": "/DipakPortfolio/static/css/main.2aedf773.css.map",
-    "main.509c48ba.js.map": "/DipakPortfolio/static/js/main.509c48ba.js.map",
+    "main.ffbb0b58.js.map": "/DipakPortfolio/static/js/main.ffbb0b58.js.map",
     "453.438d9e50.chunk.js.map": "/DipakPortfolio/static/js/453.438d9e50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aedf773.css",
-    "static/js/main.509c48ba.js"
+    "static/js/main.ffbb0b58.js"
   ]
 }
