@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DipakPortfolio/static/css/main.2aedf773.css",
-    "main.js": "/DipakPortfolio/static/js/main.0e6a781d.js",
+    "main.js": "/DipakPortfolio/static/js/main.3df58b57.js",
     "static/js/453.438d9e50.chunk.js": "/DipakPortfolio/static/js/453.438d9e50.chunk.js",
     "static/media/Dipak_Khadka.pdf": "/DipakPortfolio/static/media/Dipak_Khadka.eed92bae52578d1eb9df.pdf",
     "static/media/task.jpg": "/DipakPortfolio/static/media/task.3c71def67d25d0c81f64.jpg",
@@ -10,11 +10,11 @@
     "static/media/weather.jpg": "/DipakPortfolio/static/media/weather.02918fe2e54c7401ec68.jpg",
     "index.html": "/DipakPortfolio/index.html",
     "main.2aedf773.css.map": "/DipakPortfolio/static/css/main.2aedf773.css.map",
-    "main.0e6a781d.js.map": "/DipakPortfolio/static/js/main.0e6a781d.js.map",
+    "main.3df58b57.js.map": "/DipakPortfolio/static/js/main.3df58b57.js.map",
     "453.438d9e50.chunk.js.map": "/DipakPortfolio/static/js/453.438d9e50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2aedf773.css",
-    "static/js/main.0e6a781d.js"
+    "static/js/main.3df58b57.js"
   ]
 }
