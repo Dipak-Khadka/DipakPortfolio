@@ -139,36 +139,33 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution built with React and Node.js. Features include user authentication, payment processing, and inventory management.",
+      title: "Blue Valvet Wellness",
+      description: "A responsive e-commerce website built with vanilla HTML, CSS, and JavaScript. Features include product catalog, shopping cart functionality, form validation, and mobile-responsive design with smooth animations.",
       image: EcommerceImage, // Use imported image instead of placeholder
       role: "Full-Stack Developer",
-      outcome: "Successfully deployed with 99% uptime and positive user feedback",
-      technologies: ["React", "Node.js", "MongoDB", "Stripe API"],
-      githubLink: "https://github.com",
-      liveLink: "https://example.com"
+      outcome: "Created a fully functional e-commerce interface with smooth user interactions and responsive design across all devices",
+      technologies: ["HTML5", "CSS3", "JavaScript", "Local Storage"],
+      liveLink: "http://studentweb.cencol.ca/dkhadka8/Final_Project/index.html"
     },
     {
       id: 2,
-      title: "Task Management App",
-      description: "A collaborative task management application with real-time updates, drag-and-drop functionality, and team collaboration features.",
+      title: "Student Information Management System",
+      description: "An interactive student data management interface built with HTML, CSS, and JavaScript. Features dynamic content rendering, form validation, data filtering, and responsive table layouts for managing student records.",
       image: TaskManagerImage, // Use imported image instead of placeholder
       role: "Frontend Developer",
-      outcome: "Increased team productivity by 40% and adopted by multiple departments",
-      technologies: ["React", "Redux", "Socket.io", "Material-UI"],
-      githubLink: "https://github.com",
-      liveLink: "https://example.com"
+      outcome: "Developed an intuitive interface for managing student data with efficient DOM manipulation and user-friendly interactions",
+      technologies: ["HTML5", "CSS3", "JavaScript", "DOM Manipulation"],
+      liveLink: "http://studentweb.cencol.ca/dkhadka8/Assignment5/index.html"
     },
     {
       id: 3,
-      title: "Weather Dashboard",
-      description: "An interactive weather dashboard that displays real-time weather data with beautiful visualizations and location-based forecasts.",
+      title: "Bug Smasher Game",
+      description: "An interactive browser-based game built with vanilla JavaScript, HTML5 Canvas, and CSS animations. Features collision detection, score tracking, responsive controls, and engaging visual effects for an entertaining user experience.",
       image: WeatherAppImage, // Use imported image instead of placeholder
       role: "Frontend Developer & UI/UX Designer",
-      outcome: "Featured in local tech showcase and gained 1000+ active users",
-      technologies: ["React", "Chart.js", "Weather API", "CSS3"],
-      githubLink: "https://github.com",
-      liveLink: "https://example.com"
+      outcome: "Created an engaging interactive game demonstrating advanced JavaScript programming and animation techniques",
+      technologies: ["HTML5", "CSS3", "JavaScript", "Canvas API"],
+      liveLink: "http://studentweb.cencol.ca/dkhadka8/assignment-6_Dipak/index.html"
     }
   ];
 
