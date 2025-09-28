@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DipakPortfolio/static/css/main.2aedf773.css",
+    "main.js": "/DipakPortfolio/static/js/main.0e6a781d.js",
+    "static/js/453.438d9e50.chunk.js": "/DipakPortfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/Dipak_Khadka.pdf": "/DipakPortfolio/static/media/Dipak_Khadka.eed92bae52578d1eb9df.pdf",
+    "static/media/task.jpg": "/DipakPortfolio/static/media/task.3c71def67d25d0c81f64.jpg",
+    "static/media/ecommerce.jpg": "/DipakPortfolio/static/media/ecommerce.ca15317c32e024a7fa5b.jpg",
+    "static/media/DipakKhadka.jpeg": "/DipakPortfolio/static/media/DipakKhadka.412397f225e3ce06084b.jpeg",
+    "static/media/weather.jpg": "/DipakPortfolio/static/media/weather.02918fe2e54c7401ec68.jpg",
+    "index.html": "/DipakPortfolio/index.html",
+    "main.2aedf773.css.map": "/DipakPortfolio/static/css/main.2aedf773.css.map",
+    "main.0e6a781d.js.map": "/DipakPortfolio/static/js/main.0e6a781d.js.map",
+    "453.438d9e50.chunk.js.map": "/DipakPortfolio/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2aedf773.css",
+    "static/js/main.0e6a781d.js"
+  ]
+}
