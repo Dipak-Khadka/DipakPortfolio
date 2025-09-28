@@ -19,7 +19,7 @@ const Projects = () => {
       role: "Full-Stack Developer",
       outcome: "Created a fully functional e-commerce interface with smooth user interactions and responsive design across all devices",
       technologies: ["HTML5", "CSS3", "JavaScript", "Local Storage"],
-      githubLink: "https://github.com",
+      githubLink: "https://dipak-khadka.github.io/Final_Project",
       liveLink: "http://studentweb.cencol.ca/dkhadka8/Final_Project/index.html"
     },
     {
@@ -30,7 +30,7 @@ const Projects = () => {
       role: "Frontend Developer",
       outcome: "Developed an intuitive interface for managing student data with efficient DOM manipulation and user-friendly interactions",
       technologies: ["HTML5", "CSS3", "JavaScript", "DOM Manipulation"],
-      githubLink: "https://github.com",
+      githubLink: "https://dipak-khadka.github.io/Assignment5/",
       liveLink: "http://studentweb.cencol.ca/dkhadka8/Assignment5/index.html"
     },
     {
@@ -41,7 +41,7 @@ const Projects = () => {
       role: "Game Developer & UI Designer",
       outcome: "Created an engaging interactive game demonstrating advanced JavaScript programming and animation techniques",
       technologies: ["HTML5", "CSS3", "JavaScript", "Canvas API"],
-      githubLink: "https://github.com",
+      githubLink: "https://dipak-khadka.github.io/assignment-6_Dipak/",
       liveLink: "http://studentweb.cencol.ca/dkhadka8/assignment-6_Dipak/index.html"
     }
   ];
